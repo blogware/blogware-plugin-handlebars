@@ -1,5 +1,5 @@
 {
-  "name": "blogware-core-handlebars",
+  "name": "blogware-plugin-handlebars",
   "version": "0.0.1",
   "dependencies": {
     "handlebars": "^4.0.5"
