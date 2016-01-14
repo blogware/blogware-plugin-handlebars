@@ -2,6 +2,7 @@
   "name": "blogware-plugin-handlebars",
   "version": "0.0.1",
   "dependencies": {
+    "blogware-handlebars-helpers": "^0.0.1",
     "handlebars": "^4.0.5"
   }
 }
