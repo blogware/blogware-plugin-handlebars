@@ -1,7 +1,8 @@
 var helper = require('./lib/helper');
 
 var type = 'template engine';
-var extnames = ['.hbs'];
+var extnames = ['.hbs', '.xml'];
+
 var compile = require('./lib/compile');
 var partial = require('./lib/partial');
 var rename = require('./lib/rename');
